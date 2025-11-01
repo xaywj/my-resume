@@ -24,7 +24,7 @@ export default function RootLayout({
           <div className="col-span-12 md:col-span-7 lg:col-span-8">
             <Navbar />
 
-            <div className="mt-4">
+            <div className="mt-4 text-gray-700">
               {children}
             </div>
 

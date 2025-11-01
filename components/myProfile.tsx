@@ -6,7 +6,7 @@ import { SiFacebook } from 'react-icons/si'
 
 export default function MyProfile() {
     return (
-        <div className='bg-white/50 min-h-screen p-5 text-white'>
+        <div className='bg-white/50 backdrop-blur-sm min-h-screen p-5 text-white'>
             <div>
                 <Image className='border-3 border-white rounded-full mx-auto'
                     src="/images/anima2.webp" alt='profile' width={100} height={100} />

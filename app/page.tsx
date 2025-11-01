@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div className='bg-white p-5'>
+    <div className='bg-white/80 backdrop-blur-sm p-5'>
       <div className="text-2xl font-bold">Experience</div>
       
       <div className="text-xl mt-5">
